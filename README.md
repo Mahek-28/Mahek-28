@@ -1,4 +1,4 @@
-#  👋HI, I'm Mahek About Me:
+#  👋HI, I'm Mahek
  💫 About Me:👩‍🎓<br>🔭 I’m currently working on front-end projects.<br>🌱 I’m currently learning Full-stack development and AIML.<br>💬 Ask me about anything<br>⚡ Fun fact - like to dance 
 
 
